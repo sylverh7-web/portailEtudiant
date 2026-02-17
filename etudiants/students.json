@@ -1,0 +1,290 @@
+[
+    {
+        "id": "ET2026001",
+        "nom": "DEUTOU",
+        "prenom": "BRAYAN",
+        "classe": "BTS GL1",
+        "statut": {
+            "semestre1": "valide",
+            "semestre2": "valide"
+        },
+        "scolarite": {
+            "tranche1": "payee",
+            "tranche2": "payee",
+            "tranche3": "payee"
+        },
+        "absences": {
+            "justifiees": 2,
+            "injustifiees": 1,
+            "total": 3
+        },
+        "notesSem1": [
+            {
+                "matiere": "INTODUCTION GÉNIE LOGICIEL",
+                "note": 17,
+                "coefficient": 1,
+                "semestre": 1
+            },
+            {
+                "matiere": "ALGORITHME DE BASE",
+                "note": 16,
+                "coefficient": 1,
+                "semestre": 1
+            }
+        ],
+        "notesSem2": [
+            {
+                "matiere": "MATHS 1",
+                "note": 10,
+                "coefficient": 1,
+                "semestre": 2
+            },
+            {
+                "matiere": "FRANÇAIS",
+                "note": 15,
+                "coefficient": 1,
+                "semestre": 2
+            }
+        ],
+        "hideGrades": false,
+        "hideValidation": false
+    },
+    {
+        "id": "ET2026002",
+        "nom": "REBECCA",
+        "prenom": "LAURE",
+        "classe": "BTS GL1",
+        "statut": {
+            "semestre1": "valide",
+            "semestre2": "valide"
+        },
+        "scolarite": {
+            "tranche1": "payee",
+            "tranche2": "payee",
+            "tranche3": "payee"
+        },
+        "absences": {
+            "justifiees": 2,
+            "injustifiees": 0,
+            "total": 2
+        },
+        "notesSem1": [
+            {
+                "matiere": "INTRODUCTION GÉNIE LOGICIEL",
+                "note": 17,
+                "coefficient": 1,
+                "semestre": 1
+            },
+            {
+                "matiere": "ALGORITHME DE BASE",
+                "note": 15,
+                "coefficient": 1,
+                "semestre": 1
+            }
+        ],
+        "notesSem2": [
+            {
+                "matiere": "MATHS 1",
+                "note": 11,
+                "coefficient": 1,
+                "semestre": 2
+            },
+            {
+                "matiere": "FRANÇAIS",
+                "note": 17,
+                "coefficient": 1,
+                "semestre": 2
+            }
+        ],
+        "hideGrades": false,
+        "hideValidation": false
+    },
+    {
+        "id": "ET2026003",
+        "nom": "KAMDEM",
+        "prenom": "PRINCESSE",
+        "classe": "BTS GL1",
+        "statut": {
+            "semestre1": "valide",
+            "semestre2": "valide"
+        },
+        "scolarite": {
+            "tranche1": "payee",
+            "tranche2": "payee",
+            "tranche3": "payee"
+        },
+        "absences": {
+            "justifiees": 4,
+            "injustifiees": 0,
+            "total": 4
+        },
+        "notesSem1": [
+            {
+                "matiere": "INTRODUCTION GÉNIE LOGICIEL",
+                "note": 17,
+                "coefficient": 1,
+                "semestre": 1
+            },
+            {
+                "matiere": "ALGORITHME DE BASE",
+                "note": 12,
+                "coefficient": 1,
+                "semestre": 1
+            }
+        ],
+        "notesSem2": [
+            {
+                "matiere": "MATHS",
+                "note": 10,
+                "coefficient": 1,
+                "semestre": 2
+            },
+            {
+                "matiere": "FRANÇAIS",
+                "note": 15,
+                "coefficient": 1,
+                "semestre": 2
+            }
+        ],
+        "hideGrades": false,
+        "hideValidation": false
+    },
+    {
+        "id": "ET2026004",
+        "nom": "KAMTO",
+        "prenom": "SYLVERE",
+        "classe": "BTS GL1",
+        "statut": {
+            "semestre1": "valide",
+            "semestre2": "valide"
+        },
+        "scolarite": {
+            "tranche1": "payee",
+            "tranche2": "payee",
+            "tranche3": "payee"
+        },
+        "absences": {
+            "justifiees": 1,
+            "injustifiees": 0,
+            "total": 1
+        },
+        "notesSem1": [
+            {
+                "matiere": "INTRODUCTION GÉNIE LOGICIEL",
+                "note": 17,
+                "coefficient": 1,
+                "semestre": 1
+            },
+            {
+                "matiere": "ALGORITHME DE BASE",
+                "note": 14,
+                "coefficient": 1,
+                "semestre": 1
+            }
+        ],
+        "notesSem2": [
+            {
+                "matiere": "MATHS 1",
+                "note": 12,
+                "coefficient": 1,
+                "semestre": 2
+            },
+            {
+                "matiere": "FRANÇAIS",
+                "note": 16,
+                "coefficient": 1,
+                "semestre": 2
+            }
+        ],
+        "hideGrades": false,
+        "hideValidation": false
+    },
+    {
+        "id": "ET2026005",
+        "nom": "P",
+        "prenom": "PAUL",
+        "classe": "BTS IWD",
+        "statut": {
+            "semestre1": "valide",
+            "semestre2": "non-valide"
+        },
+        "scolarite": {
+            "tranche1": "payee",
+            "tranche2": "non-payee",
+            "tranche3": "non-payee"
+        },
+        "absences": {
+            "justifiees": 0,
+            "injustifiees": 0,
+            "total": 0
+        },
+        "notesSem1": [
+            {
+                "matiere": "INFOGRAPHIE",
+                "note": 10,
+                "coefficient": 1,
+                "semestre": 1
+            },
+            {
+                "matiere": "STUDIO PHOTO",
+                "note": 10,
+                "coefficient": 1,
+                "semestre": 1
+            }
+        ],
+        "notesSem2": [
+            {
+                "matiere": "MATHS",
+                "note": 5,
+                "coefficient": 1,
+                "semestre": 2
+            },
+            {
+                "matiere": "FRANÇAIS",
+                "note": 12,
+                "coefficient": 1,
+                "semestre": 2
+            }
+        ],
+        "hideGrades": false,
+        "hideValidation": false
+    },
+    {
+        "id": "ET2026008",
+        "nom": "D",
+        "prenom": "DAVID",
+        "classe": "BTS",
+        "statut": {
+            "semestre1": "valide",
+            "semestre2": "valide"
+        },
+        "scolarite": {
+            "tranche1": "payee",
+            "tranche2": "payee",
+            "tranche3": "non-payee"
+        },
+        "absences": {
+            "justifiees": 0,
+            "injustifiees": 8,
+            "total": 8
+        },
+        "notesSem1": [
+            {
+                "matiere": "MATHS",
+                "note": 15,
+                "coefficient": 1,
+                "semestre": 1
+            }
+        ],
+        "notesSem2": [
+            {
+                "matiere": "FRANCAIS",
+                "note": 18,
+                "coefficient": 1,
+                "semestre": 2
+            }
+        ],
+        "hideGrades": false,
+        "hideValidation": false
+    }
+]
